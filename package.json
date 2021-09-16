@@ -1,0 +1,22 @@
+{
+  "name": "a02-bthall73",
+  "version": "1.0.0",
+  "description": "COMP 426 - a02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bthall73: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@github.com/jdmar3-comp426/a02-bthall73.git"
+  },
+  "author": "Brandon Hall",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-bthall73/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-bthall73#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
